@@ -4,15 +4,7 @@ on Python
 * The goal of this task is to count the number of images in your Google Drive folder and write down their names
   * Connect to Google Drive API to read files directly from Google Drive
   * Connect to Google Sheets API to post results directly to Google Drive
-            
-1. Libraries 
-  1. google-api-python-client
-  2. oauth2client
-  3. google.oauth2 
-  4. googleapiclient.discovery
-  5. httplib2
-  6. oauth2client.service_account
-
+       
 <details>
            <summary>Used Libraries</summary>
            <p>google-api-python-client</p>
@@ -23,6 +15,9 @@ on Python
            <p>httplib2</p>
            <p>oauth2client.service_account</p>
          </details>
-`pip install --upgrade google-api-python-client`
-`pip install oauth2client`
-         
+## Usage
+
+```python
+pip install --upgrade google-api-python-client
+pip install oauth2client
+```
