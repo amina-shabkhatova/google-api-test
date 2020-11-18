@@ -15,12 +15,14 @@ on Python
 
 <details>
            <summary>Used Libraries</summary>
-           <p>google-api-python-client - `pip install --upgrade google-api-python-client`</p>
-           <p>oauth2client - `pip install oauth2client`</p>
+           <p>google-api-python-client</p>
+           <p>oauth2client</p>
            <p>google.oauth2 </p>
            <p>googleapiclient.discovery</p>
            <p>oauth2client</p>
            <p>httplib2</p>
            <p>oauth2client.service_account</p>
          </details>
+`pip install --upgrade google-api-python-client`
+`pip install oauth2client`
          
